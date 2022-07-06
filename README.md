@@ -1,4 +1,4 @@
-# mod-1-challenge-horiseon
+# Module 1 Challenge:  Horiseon Webpage
 
 Horiseon is a company that provides services in search engine optimization, online reputation management, and social media marketing to better your business's online presence.
 
