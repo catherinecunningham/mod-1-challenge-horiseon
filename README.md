@@ -2,7 +2,7 @@
 
 Horiseon is a company that provides services in search engine optimization, online reputation management, and social media marketing to better your business's online presence.
 
-The code for Horizeon's website has been updated with commentary in both the HTML and CSS files to make both more accessible to other developers.  Links on the page have been checked and fixed when needed so that navigation is possible on the page.  A title for the page has been added.  The selectors in the CSS file have been consolidated to streamline the code and avoid repetition.
+The code for Horizeon's website has been updated with commentary in both the HTML and CSS files to make both more accessible to other developers.  Links on the page have been checked and fixed when needed so that navigation is possible on the page.  A title for the page has been added.  The selectors in the CSS file have been consolidated to streamline the code and avoid repetition.  Alt descriptors for images have been added to the page for accessibility.
 
 Horiseon's webpage can be found here:  https://catherinecunningham.github.io/mod-1-challenge-horiseon/
 
